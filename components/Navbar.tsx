@@ -20,7 +20,7 @@ export const Navbar = () => {
 					<Link
 						href={link.href}
 						key={link.key}
-						className='regular-16 text-black flexCenter cursor-pointer pb-1.5 transition-all hover:medium-16'
+						className='regular-16 text-black flexCenter cursor-pointer transition-all hover:medium-16'
 					>
 						{link.label}
 					</Link>

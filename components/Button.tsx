@@ -10,7 +10,7 @@ const Button = ({ type, title, variant }: Props) => {
 			className={`flexCenter gap-3 rounded-full border ${variant}`}
 			type='button'
 		>
-			<label className='whitespace-nowrap'>{title}</label>
+			<label>{title}</label>
 		</button>
 	);
 };
