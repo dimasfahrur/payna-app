@@ -88,6 +88,10 @@ body {
     @apply text-[16px] font-[600];
   }
 
+  .medium-20 {
+    @apply text-[20px] font-[600];
+  }
+
   .bold-88 {
     @apply text-[88px] font-[700] leading-[120%];
   }
@@ -100,16 +104,16 @@ body {
     @apply text-[55px] font-[700] leading-[120%];
   }
 
-  .bold-38 {
-    @apply text-[38px] font-[700] leading-[120%];
+  .bold-36 {
+    @apply text-[36px] font-[700] leading-[120%];
   }
 
   .bold-32 {
     @apply text-[32px] font-[700] leading-[120%];
   }
 
-  .bold-20 {
-    @apply text-[20px] font-[700];
+  .bold-28 {
+    @apply text-[28px] font-[700];
   }
 
   .bold-18 {
