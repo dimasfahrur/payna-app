@@ -22,3 +22,7 @@ The following dependencies are required for this project:
 - React: A Javascript library for building user interfaces.
 - TypeScript: A typed superset of JavaScript that compiles to plain JavaScript.
 - React Hook Form: A React library that provides developer when building forms in React
+
+## License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use, modify, and distribute the code as per the terms of the license.
